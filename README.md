@@ -8,7 +8,7 @@ My skills are listed in the toolbox below.
 
 ---
 
-🧰 Toolbox
+🧰 Toolbox:
 
 <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="Apache Spark Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="Hadoop Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="70" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="70" height="50"/> 
