@@ -2,8 +2,8 @@
 ---
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SrikantSwamy?style=social">
 
-A data engineer specialising in databases, big data and AWS. 
-I am Spark enthusiast. My skills are listed in the toolbox below.
+I'm a big data enthusiast specialising in databases, big data and AWS. \
+My skills are listed in the toolbox below.
 
 
 ---
