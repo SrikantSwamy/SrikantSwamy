@@ -3,7 +3,7 @@
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SrikantSwamy?style=social">
 
 I'm a big data enthusiast specialising in databases, big data and AWS. \
-My skills are listed in the toolbox below.
+
 
 
 ---
